@@ -25,11 +25,11 @@ Features| Fingerprint (side-mounted), accelerometer, proximity, compass
 ![Redmi 12](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-12-1.jpg "Redmi 12")
 
 ## Building
-
+```bash
 source build/envsetup.sh
 lunch twrp_fire-eng
 mka bootimage
-
+```
 ## Features
 
 Works:
